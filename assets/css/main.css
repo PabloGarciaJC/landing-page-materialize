@@ -15,7 +15,7 @@
       width: 100%;
       height: 100%;
       object-fit: cover;
-      filter: brightness(60%);
+      filter: brightness(20%);
     }
 
     /* Contenido del hero */
@@ -58,7 +58,7 @@
 
     .section-title {
       font-weight: 700;
-      color: #1976d2;
+      color: #182f46;
     }
 
     .card-hover:hover {
@@ -67,7 +67,16 @@
     }
 
     .bg-banner {
-      background: #1976d2;
+      background: #182f46 !important;
+    }
+
+
+     .text-blue {
+      color: #182f46 !important;
+    }
+
+    .text-black {
+      color: #000 !important;
     }
 
     .container .no-margin {
