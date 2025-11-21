@@ -6,7 +6,7 @@ Landing Page desarrollada con **HTML5**, **CSS3** y **Materialize CSS**, usando 
 
 [https://landing-page-materialize.com/](https://landing-page-materialize.pablogarciajc.com/)
 
-| ![Imagen 1](https://pablogarciajc.com/wp-content/uploads/2025/08/landing-page-bootstrap-1.webp) | ![Imagen 2](https://pablogarciajc.com/wp-content/uploads/2025/09/landing-page-bootstrap-22_11.webp) |
+| ![Imagen 1](https://pablogarciajc.com/wp-content/uploads/2025/11/landing-page-materialize-1.webp) | ![Imagen 2](https://pablogarciajc.com/wp-content/uploads/2025/11/landing-page-materialize-2.webp) |
 |-----------|-----------|
 
 ---
